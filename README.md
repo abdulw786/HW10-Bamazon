@@ -1,7 +1,6 @@
 
 HW10-Bamazon
-Video Overview
-Bamazon Video Overview
+
 
 Overview
 To run each part of the application:
