@@ -6,6 +6,7 @@ Bamazon Video Overview
 Overview
 To run each part of the application:
 
+
 node .\bamazonCustomer.js
 node .\bamazonManager.js
 Technologies used:
